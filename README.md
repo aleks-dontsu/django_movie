@@ -1,1 +1,1 @@
-# django_movie
+# Movie site
